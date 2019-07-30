@@ -1,2 +1,2 @@
-I'm learning how to use git.
-In order to learn useing esp8266 unit.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
